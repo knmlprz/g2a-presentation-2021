@@ -1,0 +1,115 @@
+
+Title: RTFD Promo
+Author: RTFD Team
+Draft date: Mon Sep 06 2021
+Revision: 0.2
+
+
+FADE IN:
+
+INT. Living Room - DAWN
+
+VICTIM, 20 to 30 years old, tiny cute girl. She is wearing warm cozy jumper and a pair of jeans.  
+
+The colors of the living room are gentle and pleasant. There is a bookshelf, a sofa and "teddy-bears" at the background. The Victim is sitting at the table. There is a laptop/PC on the table. She is doing some casual things (like chatting or checking the weather forecast).
+
+COMPUTER's dialogues represent the content which is shown on the screen. They should be read by a robust, bassy background voice (voice over, i.e. V.O.).
+
+VICTIM's dialogues are added to emphasize her feelings. 
+
+*(We have to **choose which dialogues to read**).*
+
+COMPUTER (V.O.)
+(notification text)
+**Security alert!**
+
+VICTIM (V.O.) ^
+...mmm sorry what? 
+Security ALERT?
+
+The Victim clicks on the notification and the Gmail client opens in the browser. The message came from NOT AUTHORIZED service, it is clearly visible at the screen, but not emphasized. The Victim doesn't pay attention to that as well.
+
+COMPUTER (V.O.)
+(mail content)
+Your Google Account *(rtfd.team@gmail.com)* was just signed in to from a new Linux device. You are getting this email to make sure it was you. 
+If you do not recognize this activity, we highly recommend to change your password.
+
+VICTIM (V.O.) ^
+Your account was just signed in to... you're getting this email to make sure it was YOU. If you don't recognize this activity... to CHANGE YOUR PASSWORD?
+
+The Victim starts to panic. She clicks on the big blue button, which says *"Change your password"*. 
+
+The sign in page loads. The Victim checks whether the "security lock" is green (it is), but it doesn't pay enough attention to the top level domain (TLD), where there is an error (something like *gocgle.com* or *goog1e.com*).
+
+COMPUTER (V.O.)
+Sign in to your google account.
+
+VICTIM (V.O.) ^
+[[Should she read the password aloud?]]
+Ok, the page is secure... Ohh password...
+
+The Victim enters the login data and the two factor authentication prompt appears on the phone. She takes her phone reluctantly and presses "Yes, it was me" button.
+
+Finally, the *"change password"* menu appears.
+
+COMPUTER (V.O.)
+Enter a new password.
+
+VICTIM (V.O.) ^
+New password...
+
+The Victim changes the password and the notification about that appears on her phone. The browser user account logs out. *(We need to point out somehow, that this is because of the password change)*.
+[[Probably those passwords should be visible to the viewer...]]
+
+COMPUTER (V.O.)
+Log in to access your account.
+
+VICTIM (V.O.) ^
+Ok, this is probably because I've changed the password...
+
+The sign in page loads again. 
+
+COMPUTER (V.O.)
+Enter your password.
+
+The Victim tries to enter the newly created password. It turns out to be incorrect.
+
+COMPUTER (V.O.)
+The password is incorrect. Please, try again.
+
+VICTIM (V.O.) ^
+INCORRECT? This keyboard is just awful, I can't type correctly with it...
+
+The Victim tries to enter the same password several times, but it is still incorrect...
+
+VICTIM
+[[Make that more realistic]]
+WHAT IS GOING ON? **Whyyy???**
+
+SLIDE TO:
+
+INT. Office & Living Room - SIDE BY SIDE - DAWN
+
+THIEF, young man. He wears anonymous mask and very formal black suit.
+
+The *office* is a black and white room with a small amount of cold, almost blue, light. The room is empty, except the Thief, who is sitting at the table. There is a cool powerful PC and (if possible) more than one monitor on the table.
+
+The Victim continues to troubleshoot her problem with the account, while the Thief enthusiastically makes something on the PC. 
+
+THIEF (V.O)
+(sarcastically, with a sneer)
+Thank you very much, little **"phish"**. 
+
+VICTIM (V.O.)
+(almost crying)
+Have I just lost my ACCOUNT? 
+
+SMOOTH SHIFT TO:
+
+INT. Office - DAWN
+
+The Thief is logged into the Victim's account. He exports all passwords, contacts, photos, files from appropriate Google services. Then he buys something using Google Pay and makes some malicious posts on the Victim's Facebook account...
+
+INT. Conclusions
+
+*(This scene hasn't been finished yet, but something about security should be said. I would like to add some flashbacks where there is an Email sender address, which is clearly not the Google's Authority and the webpage TLD which has an error in it. I would not like to indicate that we have already solved the problem of phishing, but we can emphasize, that this is our goal.)*
